@@ -45,7 +45,7 @@ export const data=[
         id:6,
         name:"Hyoan Moon Portfolio",
         image:Portfolio,
-        github:"",
+        github:"https://github.com/HyoanMoon/Portfolio.git",
         live:"",
     },
 
