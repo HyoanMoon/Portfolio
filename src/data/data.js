@@ -1,5 +1,5 @@
 import Bookdo7stars from '../assets/projects/bookdo7stars.png'
-import MaruTech from '../assets/projects/marutech.png'
+import MaruTech from '../assets/projects/marutech_logo.png'
 import HnM from '../assets/projects/hnm.png'
 import Survey from '../assets/projects/survey.png'
 import TodoList from '../assets/projects/todolist.png'
